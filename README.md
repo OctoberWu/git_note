@@ -1,8 +1,8 @@
 #INSTRUCTIONS:
 -------------------------------------------------------
-0.Set the account
-`$git config --global user.name "OctoberWu"
-$git config --global user.email "october.wu@gmail.com"`
+0.Set the account  
+`$git config --global user.name "OctoberWu"  
+$git config --global user.email "october.wu@gmail.com"`  
 1.Move to the directory.
 `$git init`
 2.Add the intended files to be traced(supervised)
