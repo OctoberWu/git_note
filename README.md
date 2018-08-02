@@ -28,7 +28,7 @@ Afterward, there's no need to do it again.
 ### Get Status  
 `$git status`  
 ### Make command concise  
-### '-a': and   '-m': message  
+### '-a': add,   '-m': message  
 `$git commit -a -m "the updated messages"`  
 ### To perceive the differences  
 `$git diff`  
