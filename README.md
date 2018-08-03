@@ -22,6 +22,15 @@ Local Repo --- Remote Repo
 '-u' stands for '--set-updatream', and it should be done once.  
 Afterward, there's no need to do it again.  
 
+5. Branch
+`$git branch dev`  
+`$git checkout dev`  
+the above 2 commands could be combined into 1 as below:   
+`$git -b checkout dev`  
+
+Besides, the following command could check the HEAD out
+`$git branch`
+
 
 ## Note:  
 ### Get Version  
