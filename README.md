@@ -47,5 +47,5 @@ merge brach without fast-forward
 ### Remove the files(hello.py) from being traced  
 `$git rm --cached hello.py`  
 ###
-`$git log --online --graph`
+`$git log --graph`
 
