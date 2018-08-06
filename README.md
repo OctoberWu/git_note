@@ -21,7 +21,6 @@ Local Repo --- Remote Repo
 ## Note:  
 '-u' stands for '--set-updatream', and it should be done once.  
 Afterward, there's no need to do it again.  
-
 5. Branch
 `$git branch dev`  
 `$git checkout dev`  
@@ -30,6 +29,8 @@ the above 2 commands could be combined into 1 as below:
 
 Besides, the following command could check the HEAD out
 `$git branch`
+6. Merge
+`$git merge --no-ff "commit messages"`
 
 
 ## Note:  
@@ -44,4 +45,6 @@ Besides, the following command could check the HEAD out
 `$git diff`  
 ### Remove the files(hello.py) from being traced  
 `$git rm --cached hello.py`  
+###
+`$git log --online --graph`
 
