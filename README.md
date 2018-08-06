@@ -30,6 +30,7 @@ the above 2 commands could be combined into 1 as below:
 Besides, the following command could check the HEAD out
 `$git branch`
 6. Merge
+merge brach without fast-forward
 `$git merge --no-ff "commit messages"`
 
 
